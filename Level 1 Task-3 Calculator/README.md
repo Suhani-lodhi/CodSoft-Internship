@@ -1,8 +1,8 @@
-Calculator Web App
+![image](https://github.com/user-attachments/assets/e1741344-66b3-4aa4-b441-112aa48c642b)**Calculator Web App**
 
 This is a simple yet functional Calculator Web App created using HTML, CSS, and JavaScript. The calculator allows users to perform basic arithmetic operations with a clean and interactive user interface.
 
-Features
+**Features**
 
 User-Friendly Interface: Simple and intuitive design for easy calculations.
 
@@ -12,7 +12,7 @@ Responsive Design: Ensures usability across various devices.
 
 Clear and Backspace Buttons: Provides additional functionality for efficient corrections.
 
-Technologies Used
+**Technologies Used**
 
 HTML5
 
@@ -30,11 +30,13 @@ Press = to display the result.
 
 Use C to clear the entire calculation and ⌫ to delete the last entered digit.
 
-Project Screenshots
+**Project Screenshots**
+![Screenshot 2025-03-29 112126](https://github.com/user-attachments/assets/f28efff6-d587-4e40-920d-69a4c85153de)
+
+![Screenshot 2025-03-29 112142](https://github.com/user-attachments/assets/825b54cf-1989-4b1d-b4cc-09dd2964b6ea)
 
 
-
-Future Improvements
+**Future Improvements**
 
 Add advanced scientific calculator features.
 
@@ -42,6 +44,6 @@ Implement a dark mode for better accessibility.
 
 Introduce keyboard support for faster calculations.
 
-Contributing
+**Contributing**
 
 If you'd like to contribute, please fork the repository and submit a pull request
