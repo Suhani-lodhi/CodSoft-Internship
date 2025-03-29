@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e1741344-66b3-4aa4-b441-112aa48c642b)**Calculator Web App**
+**Calculator Web App**
 
 This is a simple yet functional Calculator Web App created using HTML, CSS, and JavaScript. The calculator allows users to perform basic arithmetic operations with a clean and interactive user interface.
 
@@ -31,10 +31,7 @@ Press = to display the result.
 Use C to clear the entire calculation and ⌫ to delete the last entered digit.
 
 **Project Screenshots**
-![Screenshot 2025-03-29 112126](https://github.com/user-attachments/assets/f28efff6-d587-4e40-920d-69a4c85153de)
-
-![Screenshot 2025-03-29 112142](https://github.com/user-attachments/assets/825b54cf-1989-4b1d-b4cc-09dd2964b6ea)
-
+![Screenshot 2025-03-29 112452](https://github.com/user-attachments/assets/fba17b9d-c5cf-4685-86c1-b1f013bbf04a)
 
 **Future Improvements**
 
